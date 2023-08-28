@@ -1,0 +1,50 @@
+.gitissues{
+    text-align: center;
+}
+.check{
+    text-align: center;
+}
+.Issues{
+    border:1px solid #ccc;
+    border-radius: 10px;
+    width: 60%;
+    margin: 5vh auto;
+    min-height: 90vh;
+    .Issue{
+        padding: 10px 10px 5px 10px;
+        &:hover{
+            cursor: pointer;
+            border-radius: 10px;
+            background-color: #ccc;
+        }
+        .header{
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            .title{
+                font-size: 17px;
+                margin: 0;
+                line-height: 1.2;
+            }
+            .isOpen{
+                line-height: 1.3;
+                margin-right: 5px;
+                .fa-check-circle{
+                    color:green;
+                }
+                .fa-times-circle{
+                    color:red;
+                }
+            }
+        }
+        .Badges{
+            .Badge{
+                margin:0 4px;
+                border-radius: 10px;
+                padding: 3px;
+                color:black;
+                // color:#fff;
+            }
+        }
+    }
+}

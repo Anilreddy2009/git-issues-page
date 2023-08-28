@@ -1,0 +1,157 @@
+{
+    "issues":[
+        {
+            "id":0,
+            "text":"progress bar when run `npm run build`",
+            "isOpen":true,
+            "number":"#7358",
+            "message":"Steps to reproduce: just remove the custom option template and the tag text will appear. Soon as you add the custom template, the tag can be selected but does not show up realtime in the dropdown.",
+            "badges":[
+                {
+                    "text":"issue : bug report",
+                    "color":"orange"
+                },
+                {
+                    "text":"issue : proposal",
+                    "color":"yellow"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "text":"ADD new quine file",
+            "isOpen":false,
+            "number":"#8933",
+            "message":"Hi sorry I'm new with Vue and sadly it seems i faced a big update and all docs are old or like you they throw a big hint but its not what i can discover can you please explain what i made wrong my prop is not getting updated ?!",
+            "badges":[
+                {
+                    "text":"good first issue",
+                    "color":"red"
+                },
+                {
+                    "text":"help wanted",
+                    "color":"yellow"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "text":"Quine in Haskell",
+            "isOpen":false,
+            "number":"8732",
+            "message":"I have followed the exact code but the result is not the same as what showed in the documentation. The v-model value always returns null data and all options are checked.",
+            "badges":[
+                {
+                    "text":"up for grabs",
+                    "color":"blue"
+                },
+                {
+                    "text":"issue : proposal",
+                    "color":"red"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "text":"error adding first user admin",
+            "isOpen":true,
+            "number":"#4945",
+            "message":"Hi is there a way to customize the darkmode that is now integrated in laravel using the possibility of modification as per the documentation? or if there is a way I ask if someone has ever had this need or problem.",
+            "badges":[
+                {
+                    "text":"issue : bug report",
+                    "color":"orange"
+                },
+                {
+                    "text":"issue : proposal",
+                    "color":"yellow"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "text":"Line break & hyperlinks & rich text",
+            "isOpen":true,
+            "number":"#1893",
+            "message":"I am passing JSON array users to multiselect as options props, all objects in users JSON have property is_active (boolean) which states if that user is deleted or not; I want to hide users which are deleted from getting displayed in options list without actually removing them from options list.",
+            "badges":[
+                {
+                    "text":"good first issue",
+                    "color":"red"
+                },
+                {
+                    "text":"issue : help-needed",
+                    "color":"blue"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "text":"Setting i18n debug to true reveals several potential issues",
+            "isOpen":true,
+            "number":"#12363",
+            "message":"At the moment we have our docs building for V2. While not much of the docs need changing for V3, we should have a separate section for V2, much like we currently do for V1",
+            "badges":[
+                {
+                    "text":"solve",
+                    "color":"green"
+                },
+                {
+                    "text":"bug",
+                    "color":"red"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "text":"New server app dependencies install error (ambiguous syntax error)",
+            "isOpen":true,
+            "number":"#8732",
+            "message":"Hi is there a way to customize the darkmode that is now integrated in laravel using the possibility of modification as per the documentation? or if there is a way I ask if someone has ever had this need or problem.",
+            "badges":[
+                {
+                    "text":"issue",
+                    "color":"yellow"
+                },
+                {
+                    "text":"bug",
+                    "color":"red"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "text":"Fail to build on a clean Fedora 33 installation",
+            "isOpen":false,
+            "number":"#78345",
+            "message":"The Writing Program page doesn't have a hyperlink for quick reference of GH issues that have been created in search of volunteers to author resource articles and blog posts.",
+            "badges":[
+                {
+                    "text":"solve",
+                    "color":"red"
+                },
+                {
+                    "text":"help",
+                    "color":"blue"
+                }
+            ]
+        },
+        {
+            "id":9,
+            "text":"Unable to perform a full page reload",
+            "isOpen":false,
+            "number":"#3473",
+            "message":"An initial set of badges exists, however, there are a number of new badges that need to be created. This issue calls for a volunteer to draft a new badge. Who is this badge for? Users What milestone does this badge recognize? This badge is awarded to users upon creation of their first infrastructure screenshot directly in their pull request.",
+            "badges":[
+                {
+                    "text":"good first issue",
+                    "color":"red"
+                },
+                {
+                    "text":"help-needed",
+                    "color":"blue"
+                }
+            ]
+        }
+    ]
+}
